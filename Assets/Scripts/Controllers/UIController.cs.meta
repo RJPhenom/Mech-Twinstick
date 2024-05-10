@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 450d9fda10f04c14aafbdb5890e0c758
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rebuildMech_Debug: {instanceID: 0}
+  - debugLegs: {fileID: 1826030449832919304, guid: 2ea059e397d68e04aad1287400cb038a, type: 3}
+  - debugChassis: {fileID: 2812065379306457623, guid: b4956f80832d1e24088e6d35f52597e0, type: 3}
+  - debugAttachment1: {fileID: 1826030449832919304, guid: 42680944b4152e04aa960479ad1e9181, type: 3}
+  - debugAttachment2: {fileID: 1826030449832919304, guid: 42680944b4152e04aa960479ad1e9181, type: 3}
+  - debugAttachment3: {fileID: 1826030449832919304, guid: 42680944b4152e04aa960479ad1e9181, type: 3}
+  - debugAttachment4: {fileID: 1826030449832919304, guid: 42680944b4152e04aa960479ad1e9181, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
